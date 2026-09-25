@@ -6,7 +6,7 @@
 - Frontend: HTML, CSS, JavaScript, ReactJS, Figma (UI/UX)
 - Backend: NodeJS, MongoDB
 - Mobile App Development: Flutter
-- Other Tools: Python, Git, Project Management
+- Other Tools: Python, SQL, Git, Project Management
 - Design: Proficient in crafting beautiful interfaces and user experiences in Figma, focusing on responsive, engaging UI design.
 
 🌱 Currently Learning
